@@ -118,7 +118,7 @@ def f_hello(bot, trigger):
     randtime = random.uniform(0, 7)
     time.sleep(randtime)
     set1 = ['yo', 'hey', 'hi', 'Hi', 'hello', 'Hello', 'Welcome']
-    set2 = ['~', '~~~', '!', '?', ' :)', ':D', 'xD', '(Y)', '(y)', ':P', ':-D', ';)', ', How do you do?']
+    set2 = ['~', '~~~', '!', '?', ' :)', ':D', 'xD', ':P', ':-D', ';)', ', How do you do?']
     respond = [ str1 + ' ' + str2 for str1 in set1 for str2 in set2]
     bot.say(random.choice(respond))
 
