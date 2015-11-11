@@ -4,5 +4,4 @@ from sopel import module
 
 @module.rule('((j+u+)|(h+oo+))n+g+l+a+s+')
 def junglas(bot, trigger): 
-    bot.say('HOOOOOOONGLAAAAASSSSSSSSSSS')
-
+    bot.say('HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111')
