@@ -6884,3 +6884,103 @@
 <<1447274049.93	:Kakrafoon.Nightstar.Net PONG Kakrafoon.Nightstar.Net :74.207.244.119
 >>1447274169.94	PING 74.207.244.119
 <<1447274170.01	:Kakrafoon.Nightstar.Net PONG Kakrafoon.Nightstar.Net :74.207.244.119
+>>1447287316.53	CAP LS 302
+>>1447287316.53	NICK knifebot
+>>1447287316.53	USER sopel +iw knifebot :Sopel: http://sopel.chat
+<<1447287316.6	:Kakrafoon.Nightstar.Net NOTICE Auth :*** Looking up your hostname...
+<<1447287316.67	:Kakrafoon.Nightstar.Net NOTICE Auth :*** Could not resolve your hostname: Domain name not found; using your IP address (159.203.133.70) instead.
+<<1447287316.67	:Kakrafoon.Nightstar.Net CAP 693AAAVE8 LS :multi-prefix tls userhost-in-names
+>>1447287316.67	CAP REQ multi-prefix
+>>1447287316.67	CAP END
+<<1447287316.75	:Kakrafoon.Nightstar.Net 439 knifebot :This server has anti-spambot mechanisms enabled.
+<<1447287316.75	:Kakrafoon.Nightstar.Net 931 knifebot :Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+<<1447287316.75	:Kakrafoon.Nightstar.Net PRIVMSG knifebot :TIME
+>>1447287316.75	NOTICE Kakrafoon.Nightstar.Net :TIME Wednesday, 11. November 2015 07:15PM
+<<1447287316.82	:Kakrafoon.Nightstar.Net CAP knifebot ACK :multi-prefix
+<<1447287317.61	:Kakrafoon.Nightstar.Net NOTICE Auth :Welcome to Nightstar!
+<<1447287317.61	:Kakrafoon.Nightstar.Net 001 knifebot :Welcome to the Nightstar IRC Network knifebot!sopel@159.203.133.70
+>>1447287317.62	MODE  knifebot +B
+>>1447287317.62	JOIN #testclub
+>>1447287317.62	JOIN #steelandpenises
+<<1447287317.62	:Kakrafoon.Nightstar.Net 002 knifebot :Your host is Kakrafoon.Nightstar.Net, running version InspIRCd-2.0
+<<1447287317.62	:Kakrafoon.Nightstar.Net 003 knifebot :This server was created 14:50:13 Jul 21 2015
+<<1447287317.62	:Kakrafoon.Nightstar.Net 004 knifebot Kakrafoon.Nightstar.Net InspIRCd-2.0 BGHILRSWcdhikorswx ABCDFGIJKLMNOPQRSTabcefghijklmnopqrstuvwz FIJLabefghjkloqvw
+<<1447287317.62	:Kakrafoon.Nightstar.Net 005 knifebot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibegw,k,FJLfjl,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I KICKLEN=255 :are supported by this server
+<<1447287317.62	:Kakrafoon.Nightstar.Net 005 knifebot MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=30 MODES=30 NAMESX NETWORK=Nightstar NICKLEN=31 OPERLOG OVERRIDE PREFIX=(qaohv)~&@%+ REMOVE :are supported by this server
+<<1447287317.62	:Kakrafoon.Nightstar.Net 005 knifebot SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+<<1447287317.62	:Kakrafoon.Nightstar.Net 042 knifebot 693AAAVE8 :your unique ID
+<<1447287317.62	:Kakrafoon.Nightstar.Net 375 knifebot :Kakrafoon.Nightstar.Net message of the day
+<<1447287317.62	:Kakrafoon.Nightstar.Net 372 knifebot :-   _  __       _                  __                                   
+<<1447287317.62	:Kakrafoon.Nightstar.Net 372 knifebot :-  | |/ /      | |                / _|                                  
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  | ' /  __ _ | | __ _ __  __ _ | |_  ___    ___   _ __                
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  |  <  / _` || |/ /| '__|/ _` ||  _|/ _ \  / _ \ | '_ \               
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  | . \| (_| ||   < | |  | (_| || | | (_) || (_) || | | |              
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  |_|\_\\__,_||_|\_\|_|   \__,_||_|  \___/  \___/ |_| |_|              
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-   _   _  _         _      _         _                _   _        _   
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  | \ | |(_)       | |    | |       | |              | \ | |      | |  
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  |  \| | _   __ _ | |__  | |_  ___ | |_  __ _  _ __ |  \| |  ___ | |_ 
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  | . ` || | / _` || '_ \ | __|/ __|| __|/ _` || '__|| . ` | / _ \| __|
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  | |\  || || (_| || | | || |_ \__ \| |_| (_| || | _ | |\  ||  __/| |_ 
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-  |_| \_||_| \__, ||_| |_| \__||___/ \__|\__,_||_|(_)|_| \_| \___| \__|
+<<1447287317.63	:Kakrafoon.Nightstar.Net 372 knifebot :-              __/ |                                                    
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :-             |___/
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- 
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- Rules: type /rules
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- 
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :-  Our regular chat channel is #nightstar_bar, it is an auto-op
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- channel (please refer to rule number three in the /rules now!)
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- and we expect you to use common sense before don't anything that
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- even might be slightly questionable. Feel free to start your own
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- channel (/chanserv help) if you wish.
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :- 
+<<1447287317.64	:Kakrafoon.Nightstar.Net 372 knifebot :-         Admin: Tora-Chan
+<<1447287317.65	:Kakrafoon.Nightstar.Net 372 knifebot :-     Co-admins: PinkFreud, jerith
+<<1447287317.65	:Kakrafoon.Nightstar.Net 372 knifebot :-         Opers: Fishbulb42
+<<1447287317.65	:Kakrafoon.Nightstar.Net 372 knifebot :- 
+<<1447287317.65	:Kakrafoon.Nightstar.Net 372 knifebot :- Thanks for visting Nightstar IRC Network, please enjoy your stay
+<<1447287317.65	:Kakrafoon.Nightstar.Net 372 knifebot :- and please come again!
+<<1447287317.65	:Kakrafoon.Nightstar.Net 376 knifebot :End of message of the day.
+<<1447287317.65	:Kakrafoon.Nightstar.Net 251 knifebot 
+<<1447287317.65	:There are 226 users and 147 invisible on 5 servers
+<<1447287317.65	:Kakrafoon.Nightstar.Net 252 knifebot 10 :operator(s) online
+<<1447287317.65	:Kakrafoon.Nightstar.Net 254 knifebot 220 :channels formed
+<<1447287317.65	:Kakrafoon.Nightstar.Net 255 knifebot :I have 104 clients and 2 servers
+<<1447287317.66	:Kakrafoon.Nightstar.Net 265 knifebot :Current Local Users: 104  Max: 288
+<<1447287317.66	:Kakrafoon.Nightstar.Net 266 knifebot :Current Global Users: 373  Max: 419
+<<1447287317.66	:Kakrafoon.Nightstar.Net 396 knifebot Nightstar-qbi.qc1.203.159.IP :is now your displayed host
+<<1447287317.66	:knifebot!sopel@Nightstar-qbi.qc1.203.159.IP MODE knifebot +x
+<<1447287317.69	:knifebot!sopel@Nightstar-qbi.qc1.203.159.IP MODE knifebot +B
+<<1447287317.8	:NickServ!services@Services.Nightstar.Net NOTICE knifebot :Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+<<1447287317.8	:Global!services@Services.Nightstar.Net NOTICE knifebot :[Random News - Nov 11 00:29:03 2015 EST] We have web based chat! Visit http://webchat.nightstar.net to connect to our network with your browser!
+<<1447287317.8	:knifebot!sopel@Nightstar-qbi.qc1.203.159.IP JOIN :#testclub
+<<1447287317.8	:Kakrafoon.Nightstar.Net 353 knifebot = #testclub :fooobarrr stabby @Uname knifebot 
+<<1447287317.8	:Kakrafoon.Nightstar.Net 366 knifebot #testclub :End of /NAMES list.
+<<1447287317.8	:knifebot!sopel@Nightstar-qbi.qc1.203.159.IP JOIN :#steelandpenises
+<<1447287317.8	:Kakrafoon.Nightstar.Net 332 knifebot #steelandpenises :Welcome to Bot theater | https://github.com/jamesoff/bmotion/wiki/Command-Reference
+<<1447287317.8	:Kakrafoon.Nightstar.Net 333 knifebot #steelandpenises LoH_Mobius!NSkiwiirc@Nightstar-5jng91.sco.cisco.com 1447167075
+<<1447287317.8	:Kakrafoon.Nightstar.Net 353 knifebot @ #steelandpenises :&@askeeve &fooobarrr ~Mc_Douchebag +Bawt +pointy +stabby @Uname knifebot 
+<<1447287317.81	:Kakrafoon.Nightstar.Net 366 knifebot #steelandpenises :End of /NAMES list.
+<<1447287322.02	:pointy!pointy@Nightstar-lrentt.bu.edu PRIVMSG #steelandpenises :hi yo~
+<<1447287327.12	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :git error on the server or on my part?
+<<1447287332.39	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :mine
+<<1447287332.96	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :knifebot: reload
+>>1447287333.24	PRIVMSG #steelandpenises :askeeve: done
+<<1447287336.48	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :fooobarrr, you should get a junglas
+<<1447287347.11	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :we do have an error
+<<1447287393.15	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :knifebot: junglas
+<<1447287395.35	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :with git or with the code?
+<<1447287397.03	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :knifebot: reload junglas
+>>1447287397.09	PRIVMSG #steelandpenises :Uname: junglas: not loaded, try the `load` command
+<<1447287401.23	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :knifebot: load junglas
+>>1447287401.25	PRIVMSG #steelandpenises :Uname: <module 'junglas' from '/home/knifebot/.sopel/knifeclub_modules/junglas.py'> (version: 2015-11-12 00:16:25)
+<<1447287405.59	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :fixed
+<<1447287413.01	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :you were right with the " 
+<<1447287416.33	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :? why wasn't it loaded?
+<<1447287423.74	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :it had a start up error
+<<1447287431.95	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :knifebot: junglas
+<<1447287433.67	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :fooobarrr, you should get a junglas
+<<1447287441.53	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :knifebot: reload
+>>1447287441.88	PRIVMSG #steelandpenises :Uname: done
+<<1447287445.05	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :fooobarrr, you should get a junglas
+<<1447287450.77	:Uname!Uname@Nightstar-qbi.qc1.203.159.IP PRIVMSG #steelandpenises :wtf
+<<1447287499.8	:askeeve!sid97938@Nightstar-kt1.9ff.184.192.IP PRIVMSG #steelandpenises :I just added to the string of what it says... I initially added a single quote so I changed the string to be double quoted instead of single quoted but to make things easier the only difference now other than more characters is some spaces...

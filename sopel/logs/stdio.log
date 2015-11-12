@@ -1465,3 +1465,37 @@ Traceback (most recent call last):
     self._callables[obj.priority][rule].remove(obj)
 AttributeError: 'function' object has no attribute 'priority'
 
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading junglas: invalid syntax (junglas.py, line 7) (loader.py:187)
+
+
+Registered 44 modules,
+1 modules failed to load
+
+
+Connecting to 74.207.244.119:6667...
+Connected.
+
+Welcome to Sopel. Loading modules...
+
+
+Error loading junglas: invalid syntax (junglas.py, line 7) (loader.py:187)
+
+
+Registered 44 modules,
+1 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
