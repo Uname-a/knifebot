@@ -1,3 +1,4 @@
 youtube.py
 *.pyc
-default.cfg
+sopel/default.cfg
+sopel/logs/
