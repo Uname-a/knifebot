@@ -10,4 +10,4 @@ youtube.py
 *.pyc
 sopel/logs/
 sopel/*.db
-
+.sopel/
