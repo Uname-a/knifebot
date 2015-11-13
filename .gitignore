@@ -1,4 +1,5 @@
+bin/
+lib/*
+!lib/python2.7/site-packages/sopel/
 youtube.py
 *.pyc
-sopel/default.cfg
-sopel/logs/
