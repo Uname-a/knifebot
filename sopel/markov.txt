@@ -52,3 +52,860 @@ knifebot: reload
 fooobarrr, you should get a junglas
 wtf
 I just added to the string of what it says... I initially added a single quote so I changed the string to be double quoted instead of single quoted but to make things easier the only difference now other than more characters is some spaces...
+TIME
+hay knifebot
+knifebot: junglas
+knifebot: reload
+knifebot: reload junglas
+git's making things complicated :P
+knifebot: reload junglas
+knifebot: reload 
+knifebot: reload junglas
+or I am :P
+knifebot: load junglas
+knifebot: reload junglas
+TIME
+knifebot: junglas
+let me revert it and see if it will fix itseldf
+knifebot: reload junglas
+knifebot: reload 
+junglas
+blinks
+junglas
+knifebot: reload 
+junglas
+wowsers
+knifebot: reload junglas
+junglas
+knifebot: reload junglas
+I'm confused... in the git client I'm seeing a different history from the web page...
+You know askeeve, seeing a different is much like making love to a beautiful woman
+*butterfingers*
+You've got to possess the rregex
+sparkle the bog wallness
+I think I'm messing up the commit somehow...
+and finally bathe the chatterbot.
+nope just don't reload indivigual modules
+its working now
+junglas
+that's not my change though...
+how do you like a junglas
+use the cli
+the cli?
+junglas
+are you using the one I showed you?
+yes
+its called git bash
+it should be installed
+If I visualize the master history I don't see the reverts you did
+but I do see that on the website...
+the gui is kinda broken for windows
+broken in that it doesn't update and breaks stuff you commit somehow?
+how broken?
+it fails to update
+or send]
+you can try this one if you want a gui
+https://desktop.github.com/
+I did use that one, it didn't seem to work either
+it worked if I made branch and pulled the branch back to master, but not if I just committed directly to master...
+open the git bash one
+you made an askeeve branch XD
+I know lol
+push to origin master
+I was testing
+I tried that
+:/
+send me a screen shot
+ok I'm in git bash, I edited the file, now what
+git add /path /to /file
+I *know* I have to be doing something stupid or else the tools are wicked broken
+git commit -m " comments"
+git push origin master
+to pull its git pull 
+you can do git add --all if you have lots of things to add
+error: failed to push some refs to 'https://github.com/Uname-a/knifebot.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+do a git pull
+if it fails cuz I have to do a pull, do I have to do the whole add process again?
+knifebot: reload
+testing the junglas bullshit again
+*sigh*
+git stash 
+git pull
+ummm... 624 changed files? :P
+probably gonna want to revert that
+its the chatterbot
+you're the chatterbot
+no u
+junglas
+Still not my latest...
+save your things elseware  and do a git pull --rebase
+nothing worth saving
+did it work?
+knifebot: reload
+test the junglas please
+junglass
+nope
+but maybe give it a sec this time...
+It looked like the git stuff worked
+knifebot: reload
+test the junglas please
+ugh
+junglass
+Crumbs.
+I added " but also test git or something ..." to the end of what it should say
+lol
+its on git
+and it also lost the .* before and after the junglas matching
+knifebot: reload
+test the junglas please
+knifebot: reload 
+test the junglas please
+*sigh* just needed a minute?
+it takes a min :)
+can the reload command trigger a git sync before it reloads?
+so you don't have to wait?
+thats is what I am working on
+ah goo
+d
+that'll be nice
+is there a way for git bash to remember your git password?
+ummmmmmm
+:P
+haha
+knifebot knows some nice tricks now
+aww just lmgtfy? :P
+yeah I don't have taht module installed
+nifty
+thry this git config --global credential.helper "cache --timeout=3600"
+it should catch it for an hour before asking again
+cache
+*juuust* found that :P
+lol
+I was also cooking :P
+any problem with not using the timeout?
+well good for you :P
+no clue
+knifebot: reload
+test the junglas again please
+noooooo
+nah it's ok
+oh wait...
+no that looks like a not ok error...
++def junglas(jot, trigger): 
+lol
+I don't think it was the quotes that did it
+knifebot: reload
+test the junglas again
+junglass?
+damn
+it has to be single quotes
+what happened to the say attribute?
+I put the single quotes back...
+line 6 it should be bot not jot
+oh fuck me
+stupid vim
+:P
+knifebot: RELOAD
+junglass?
+wooooo
+junglass is best
+No I disagree, the hoonglass is better.
+spamming junglas
+spamming junglas
+spamming junglas
+spamming junglas
+i say
+Well slap my ass and call me susan.
+my ass-and
+wat
+how do I check what I've git added?
+i should just google whatever
+I have the website open
+diff --stat --cached
+of course
+so intuitive
+Junglas
+knifebot: reload
+junglas
+Wowsers.
+Computer, deactivate iguana.
+burps
+er... it was the fish
+points
+hoonglass
+Junglas
+I like HOOOOOOONGLAAAAASSSSSSSSSSS.
+Wheeeeee Hooooooonglaaaaasssssssssss.
+shit they learned it
+poop
+Pooooooooooooooooop.
+shit
+k night night
+good night bots
+Night.
+Nite.
+My shirt's stuck :<
+are you going to bed pointy 
+you know that pointy learned Junglas on its own? I never programmed that response
+the ai is getting smarter
+same with Bawt 
+both baw and pointy learned wow!
+that's hilarious they learned it
+still needs to figure out how to save their 'facts'....
+the forearm is a hollow shell filled with an explosive
+pointy: take this blunt
+puts on pajamas
+gives pointy blunt
+passes pointy a joint
+Tanks.
+passes Mc_Douchebag back with a remote
+woha
+what are the odds we both do that
+pointy: stab Mc_Douchebag with your blunt
+damn he went to bed
+Hah. I didnt realize we did that
+well he's aslleep now -t the blunt did him in
+passes bawt the bong
+Bawt: smoke more weed
+tabby: stab fooobarrr 
+stabby: stab fooobarrr 
+stabs fooobarrr with a Bravo 3 in the tendon and you're sitting in it right now
+Uh... What am i sitting in?
+it
+stabby: stab Uname 
+*stabs Uname with an ESEE 5 in the buttocks*
+Current mood status:
+  horny: 0
+  stoned: 0
+  electricity: 2
+  happy: 1
+Current mood status:
+  lonely: 5
+  horny: 0
+  stoned: 0
+  electricity: 2
+  happy: 4
+  lonely: 5
+I love you pointy 
+did you change stabby's source
+staby is loney
+Mc_Douchebag its asleep
+Poor baots are lonely 
+yes I made it not go asleep
+but not the stab part - the last part it just randomly added
+"and you're sitting in it right now"
+yes
+its hard to tell
+its pretty good ai
+yeah im surprised Bawt  and pointy learned hoonglass by themselves
+lol
+I guess it was repeated enough
+i still don't understand the structure of the bot
+of knifebot?
+no pointy /stabby
+I like that theyre learning on their own sometimes 
+I understand pointy 
+oh 
+I love the hoonglass feature 
+yeah I mean... I don't understand everything
+Lol knifebot 
+but I can get it to work
+I'd lol his "knifebot"
+change things*
+yeah 
+Tone it down stabby 
+Im still going to work on both
+yeah I really prefer python 
+oh god so much
+but there is a ton of boilerplate tcl script
+that I literally copy paste to get what I want
+a huge ammount
+and for knifebot there's not as much
+yeah
+well there's a bit but it seems piecemeal
+I think I taught askeeve how to use git
+waters everything go over his own head
+*wtches
+*watches
+Mc_Douchebag: we make robots work by magic
+haha
+did he not know how?
+I use mostly mercurial
+so its mostly the same but some small (annoything) differences
+nope
+you say it like you taught the bots to say hoooogllasssss
+ I have a somewhat good knowlege
+I can make it work - but for stuff like reverting to older versions or comparing file diffs of specific version I have to look up stuff
+:P
+lol "test code before you commit"
+who does that
+http://www.git-tower.com/blog/git-cheat-sheet/
+our committing is our test bed 
+yes :)
+git just acts like a backup and a repo to pull from 
+I've never actually used git. I used svn before git was popular and then my company only recently switched from their horrendous homegrown non-versioned code management to using svn 
+that's ok its not like the world runs on stabby 
+(yet)
+I feel bad for askeeve 
+^
+I understand the differences between git and svn
+both mercurial and git have been around for over a decade
+I've read about it and I've seen it. I just haven't had an Odino) opportunity to use it 
+Yeah but something doesn't get big until it's been out for a while 
+*an opportunity 
+*shrug* it sucks but it's not like git is that hard to pick up 
+not too bad
+I'm just new to the commands and tools and stuff 
+I appreciate you walking me through it 
+np
+yes
+was also looking stuff up
+I mean I forced myself to use it a while ago
+it takes time to get into it
+Like anything really 
+the basics I know but the merging / semi advanced stuff I don't have much practice
+I have a buddy that uses it pretty intensively for his job. I could always hit him up if I get really stuck 
+I've only had to merge when i mess something up really bad :D
+Very good, now give me lgihted and doused.
+He's also good (just in general) at doing things "the way your supposed to" which tends to make things work better 
+so we at that question which one do we focus mostly on?
+they are opposites really 
+Which bot? 
+if i just reach in here
+yeah
+*squelch*
+then the answer will be on this little bit of card
+It's the chatty one not able to do Junglas type stuff easily? 
+;) 
+-_-
+*is
+they have learned hoonglass by themselves
+they do it randomly
+pointy: is asleep now though
+they have a fact system
+I haven't figured out how to get at it though
+Hehe but I mean is the smarter ai not able to be taught stuff like that? 
+it uses redit so its in memory so I can't even find the data without going through the api
+redis*
+I guess I don't have a strong opinion on what the better option is. 
+the ai we could use for knifebot could possibly do
+it
+its a very tough choice
+The Python one seems nicest to work with though I guess with less tricks that we can just turn on? 
+I haven't even looked at the sopel stuff other than their web page
+reading setup and stuff
+its nice but we will be writing everything from scratch 
+Which could be fun 
+the scratch part is the PITA part
+yeah 
+"fun"
+but good ai is hard
+I just want it to stab Mc_Douchebag 
+stabby: stab Mc_Douchebag 
+It doesn't need to be as conversational 
+stabs Mc_Douchebag with a Leek in the scalp
+We could have both. 
+is happy
+a lot of stuff is easy copy paste in bmotion
+Sopel for information and Junglas type tricks 
+The other one for conversation 
+yeah
+junglass can be implemented in bmotion pretty easily
+might do that
+blinks#
+-typo
+^ that is awsome
+rebuilding the emotion system would be interesting... but I'm afraid it would be a ton of work
+ok I'm going to read a bit about sopel now and see what I can figure out
+As we go if we find one to be better/easier no big deal dropping the other 
+lets do that its not like they take up much resources
+I'm game 
+You're hosting on digital ocean now yeah? 
+me too
+yes
+pats stabby on the back
+=o)
+I have credit there that will last for a year
+gives askeeve a pig.
+Thanks! 
+Cool. I've thought about where I'd want to host if I came up with some side project 
+DO was a candidate before 
+Aws looks good too though. 
+its nice its pretty fast from creating to being able to use it
+no windows but at the price whatever
+Who needs windows? 
+stupid people
+works with those said stupid people
+Uname:  I don't know if its bad but your youtube api key is on github public
+https://github.com/Uname-a/knifebot/blob/master/sopel/default.cfg
+precious hamburgers?
+Yes. Sleep sweet sleep with our precious!
+let me fix that
+I thought I put it in .gitignore
+also probably gitignore the logs
+youtube.py is ignored but not the config file...
+god dammit
+well I pulled those keys
+I wonder if a cheap $30 daboia clone scale would fit the same as the actual 
+I could use that as a template 
+i stil see api key
+one sec
+in sopel/default.cfg
+oh I thought you had changed it ...
+just realized that was earlyer
+ok I have to go to bed ... this happens every time
+Bye bye 
+could you try to fix it fooobarrr  my local git is screwed up
+fooobarrr is sleepy time 
+woops didnt see
+Dootie!
+dooo-tie. dooo-tie. dooo-tie. dooo-tie. dooo-tie
+dammit Bawt 
+Goddamnit 
+Why bawt
+stop being a bad influence Bawt 
+You know Uname, being a bad is much like making love to a beautiful woman
+You've got to exercise the plugins
+fear the bunch
+and finally hang the lady.
+just 
+What the fuck
+I cant even
+what 
+the 
+hell
+What is Bawt?
+Bawt is a bit out there
+A nutbar.
+a bot from the server admin
+I know what bawt IS
+I just dont know what bawt is
+are you a male Bawt ?
+yes and i wont stop till my cock falls off!
+God fucking damn
+are you gay Bawt?
+Yeah want a go? :)
+I know Mc_Douchebag  does
+are you gay stabby?
+get off of me bawt
+yes
+wait! i mean no
+stabby meet Bawt 
+stabby fuck bawt
+Tabby stab bawt with my penis
+Stabby stab bawt with my penis
+stabs bawt with a ZT 0450 in the arm
+stabby: stab Bawt with penis
+stabs stabby
+stabs Bawt with a Large Sebenza in the back zort!
+Knives are poor peronal defense weapons
+stabs Bawt
+loves it
+Large sebenza is essentially a penis 
+its a robot penis
+Holds an edge as well as one 
+I wonder what happens when we remove the flood detection
+Heheh
+Id love that
+=o)
+moo
+hi stabby 
+r =o)
+thanks stabby 
+ok
+~rarr~
+aiiii
+is hangin with his crew
+Hi
+bawt stab bawt
+It's an entire different kind of flying, all together
+blimey
+By the multiphased moon!
+not even a little bit?
+go on then
+snickers
+shut up stabby
+fine
+The next channel is #hillingdon. Alight here for the Sysops Museum.
+you know it's been a good night when you go in your bag for the camera and it's in there with your tights
+yawns
+I am a robot asshole!
+stabby:  don't talk about yourself that way
+And Bawt I didn't know you wore tights
+Dampen me for dinosaur terror!
+That didn't really make sense stabby ...
+Bollocks!
+slept through my alarm :<
+=o)
+happens to the best of us pointy 
+pointy: stab stabby with Bawt 
+stabs stabby with Bawt with a BM51 in the tendon
+Next time I'll get yer lungs with my Manix 2.
+I do love a good stabsing.
+ah I have to fix that parsing
+I do love a good Bawtsing
+Bawt: fight pointy
+pointy: stabby stabby 
+pointy: stab stabby with a stabber
+stabs with a stabber in the back
+pointy: stab pointy with a pointy
+stabs with a pointy in the heart
+pointy: stab stabby with a sharpy
+stabs with a sharpy ni the back
+is it the sharpie ink?
+it is the sharpie
+You're the sharpie.
+fights stabby
+fights pointy back with a crop
+winds stabby in the testicle
+winds pointy
+winds stabby
+bagettes pointy in the buttock my precious
+I do love a good bagettesing.
+hmm
+:)
+is that what the kids are saying these days "baggeting"
+bagettesing
+get it right
+i'd baggetter *her*
+smeagol
+smeagol her junglas right in the bagettes
+:D
+gollum
+:>
+knifebot you're my favorite
+pointy stab askeeve with a junglass
+stabs askeeve with a junglass in the tendon
+see how knifebot doesn't agree with you pointy ?
+point stab stabby with bawt
+who's point?
+pointy: stab stabby with bawt
+stabs stabby with bawt in the leg
+*uNf
+;)
+pointy: stab pointy 
+*stabs pointy with a BK7 in the tendon*
+Next time I'll get yer scalp with my Southard
+pointy: stab pointy with a sharp
+stabs pointy with a sharp in the lungs
+OH NO THE BLOOD. Its so RED and VIVID.
+pointy: stab pointy with a sharp
+That's "ridiculous" but what would I know.
+there we go
+he shouldn't stab himself unless he's sd
+sad*
+use: mood [status|info|drift|set <name> <value>]
+use: mood [status|info|drift|set <name> <value>]
+Value for mood happy is now 0
+pointy: stab pointy with a stabby
+pointy: stab pointy with a stabby
+pointy: stab pointy with a stabby
+Goodbye cruel world!
+stabs pointy with a stabby in the lungs
+*stabs pointy*
+oh no - they're learning to stab without help
+hi pointy
+hoi
+you're so cool pointy
+ pets pointy  on the head
+:>
+pats harder
+smacks pointy ni the head
+mmm
+Only 1 friend :(
+well that's usually enough to get me functioning
+haha
+Uname, you man tractor beam, i'll pump the cows full of human sewage.
+take that Uname
+I'll pump the humans full of cow sewage.
+he's a man tractor beam - I can only assume that men find him very good looking
+well, my mouth is itchy, is that normal?
+yes
+pointy: stabby pointy 
+welp
+broke something again
+pointy: stabby pointy 
+pointy: stab pointy 
+Only 1 friend :(
+:(
+Well actually 80.
+Cheer up Uname
+*hugs*
+downloads some porn for Uname
+whoa
+that's very neighborly 
+yo bots
+"howdy"
+r
+love this
+loves LoH_Mobius
+loves askeeve in unconventional manners
+<3
+I should really take a few months off from buying knives...
+hehehehe
+yeah...me too
+ ^
+I have to get presents for other people now
+so all of us in knifeclub should stop buying knives
+hmm
+:/
+I don't think this will end well
+we can still trade knives
+pointy: stab Uname 
+stabs Uname with a XM-18 in the leg#
+grrr -#
+Next time I'll get yer tendon with my Bravo 3
+ooh the bravo 3
+really likes the b2/b3
+sis you add the extra stuff?
+did
+I commited already
+ah
+fooobarrr is your sister?
+of course cuz
+pointy: stab LoH_Mobius with his own hand
+stabs LoH_Mobius with his own hand in the arm
+ouch
+awww
+awww
+rubs askeeve better
+sniggers at askeeve
+do they stab with junglas?
+stabby likes me, pointy doesn't :(
+they do now
+damn my hand is sharp
+pointy stabby fooobarrr 
+junglas anyone?
+pointy stab fooobarrr 
+*stabs fooobarrr with a Leek in the eyelid*
+Next time I'll get yer buttocks with my 940-1.
+yikes
+pointy: stab LoH_Mobius 
+*stabs LoH_Mobius with a PM 2 in the arm*
+Next time I'll get yer leg with my XM-18
+pointy stab Uname 
+*stabs Uname with a BK7 in the scalp*
+the "next time" should only happen like 10% of the time
+Next time I'll get yer eyelid with my Mini Griptilian
+It should be a rare treat more
+seems common
+lol
+ok done
+pointy: stab Uname 
+stabs Uname with a PM 2 in the lungs
+pointy: stab Uname 
+stabs Uname with a Cryo in the heart
+pointy: stab Uname 
+stabs Uname with a BM51 in the arm
+pointy: stab Uname 
+stabs Uname with a Mini Griptilian in the lungs
+pointy: stab Uname 
+stabs Uname with a Paramilitary 2 in the buttocks
+pointy: stab Uname 
+:(
+stabs Uname with a Rike 1507 in the heart
+pointy: stab askeeve
+stabs askeeve with a Cryo in the hand
+pointy: stab askeeve
+stabs askeeve with a XM-18 in the lungs
+pointy: stab askeeve
+stabs askeeve with a Southard in the chest
+pointy: stab askeeve
+stabs askeeve with a Leek in the eyelid
+pointy: stab askeeve
+stabs askeeve with a Manix 2 in the chest
+pointy: stab askeeve
+stabs askeeve with a Paramilitary 2 in the scalp
+pointy: stab fooobarrr
+it should work...
+stabs fooobarrr with a Southard in the hand
+pointy: stab fooobarrr 
+stabs fooobarrr with a Bravo 3 in the leg
+pointy: stab fooobarrr
+stabs fooobarrr with a Southard in the skull
+pointy: stab fooobarrr 
+stabs fooobarrr with a BK7 in the tendon
+pointy: stab fooobarrr
+stabs fooobarrr with a LionSteel SR2 in the arm
+o snap
+pointy: stab fooobarrr
+stabs fooobarrr with a Bravo 3 in the hand
+pointy: stab fooobarrr 
+oh there's an error
+stabs fooobarrr with 940-1 in the eyelid
+wins askeeve and LoH_Mobius
+yeah
+lol
+yay stabby !
+yay stabby!
+pointy: stab fooobarrr 
+stabs fooobarrr with an ESEE 5 in the arm
+pointy: stab fooobarrr 
+stabs fooobarrr with a Leek in the hand
+pointy: stab fooobarrr 
+stabs fooobarrr with an ESEE 5 in the tendon
+pointy: stab fooobarrr 
+moooo
+moo
+quack
+pointy: stab fooobarrr 
+stabs fooobarrr with a ZT 0450 in the tendon
+pointy: stab fooobarrr 
+*stabs fooobarrr with a Mini Griptilian in the back*
+it should work now
+Next time I'll get yer skull with my PM 2
+pointy: stab fooobarrr 
+^^
+got it!
+stabs fooobarrr with a ZT 0450 in the heart
+=o)
+pointy: stab fooobarrr 
+*stabs fooobarrr with a PM 2 in the scalp*
+pointy: stab fooobarrr 
+stabs fooobarrr with a Gladius in the buttocks
+pointy: stab fooobarrr 
+I'm surprised it hasn't said the majic work
+stabs fooobarrr with a Gladuis in the scalp
+pointy: stab fooobarrr 
+stabs fooobarrr with a BM51 in the back
+pointy: stab fooobarrr 
+*stabs fooobarrr with a Gladuis in the lungs my precious*
+pointy: stab fooobarrr 
+precious
+mutters: 'My precious, wheres my precious?'
+stabs fooobarrr with a BK7 in the scalp
+pointy: stab fooobarrr 
+stabs fooobarrr with a Manix 2 in the tendon.
+yay stabby!
+pointy: stab fooobarrr 
+pointy: stab fooobarrr
+stabs fooobarrr with a Paramilitary 2 in the back
+pointy: stab LoH_Mobius 
+SNAP!
+pointy: stab fooobarrr
+wins LoH_Mobius and askeeve
+pointy: stab fooobarrr 
+stabs LoH_Mobius with a Leek in the hand
+stabs fooobarrr with a Southard in the chest
+stabs fooobarrr with a Gladuis in the eyelid
+Next time I'll get yer tendon with my 940-1.
+woohoo!
+pointy is on a killing spree
+that's way cooler
+also
+yay!
+I want to see it stab somebody with *the* weapon though
+nobody say it
+I want pointy to have the honor
+pointy: stab fooobarrr 
+*stabs fooobarrr with a PM 2 in the buttocks*
+pointy: stab fooobarrr 
+stabs fooobarrr with 940-1 in the arm
+pointy: stab fooobarrr 
+stabs fooobarrr with a Gladuis in the tendon
+Next time I'll get yer heart with my Paramilitary 2.
+pointy: stab fooobarrr 
+stabs fooobarrr with a Large Sebenza in the lungs
+pointy: stab fooobarrr 
+yay!
+stabs fooobarrr with an ESEE 5 in the leg
+pointy: stab fooobarrr
+pointy: stab fooobarrr
+pointy: stab fooobarrr 
+pointy: stab fooobarrr
+o snap
+o snap
+stabs fooobarrr with a Pink Hello Kitty Fruit Parer Slicer in the tendon
+stabs fooobarrr with a Mini Griptilian in the skull
+stabs fooobarrr with a Gladius in the lungs poit!
+Next time I'll get yer heart with my Southard
+pointy: stab fooobarrr 
+oh god
+stabs fooobarrr with a Bravo 3 in the scalp
+pointy: stab fooobarrr 
+the hello kitty slicer
+stabs fooobarrr with a Junglass in the chest
+gosh
+falls over
+YES!
+WOOHOO!!!
+YES!
+whoooo I'm naked
+sucess
+stabby that was the appropriate response
+pointy: stab stabby
+stabs stabby with a Cryo in the heart
+mmmmmm
+as was that
+they are learning
+hot restart
+too hot
+lol
+lol
+mmm, ops
+shit
+Bollocks.
+why is pointy auto oped?
+hello pointy 
+fooobarrr :D
+I AM POINTY! I'm powered by bMotion 0.1.0+svn. I'm female and this week I have mostly been bi.
+My botnicks are currently /\m(pointy|nt|bots|the bots|notopic) ?\M/.
+I'm currently awake and my next bedtime is Thu Nov 12 23:41:00 EST 2015.
+Random stuff happens at least every 20min, at most every 240min, and not if channel quiet for more than 120min. Active channels have a line in the last 300sec.
+I loaded my configuration from: scripts/bmotion/local/settings.tcl
+I'm using legacy storage.
+hi stabby 
+Uname :D
+Im starting to understand tcl
+Current mood status:
+  horny: 0
+  stoned: 0
+  electricity: 0
+  happy: 0
+  lonely: 0
+:(
+Cheer up fooobarrr
+*hugs*
+awww
+cya l8r
+fooobarrr what's so tricky about the emotion stuff?
+I assume the stats mostly get set randomly?
+maybe some trigger words have a chance at affecting them, that kind of thing?
+it doesn't seem *too* difficult to implement...
+muwahahahahahahahaha
+sorry pointy 
+That's ok askeeve.
+ilu pointy 
+and that is why pointy  does not has op status
+pointy: will you marry me?
+can AfK_Mobius watch?
+no
+technically you need a witness Uname 
+The best kind of you.
+Current mood status:
+  horny: 0
+  stabby: 3
+  stoned: 0
+!!!!
+yeas
+  electricity: 0
+  happy: 1
+awwww yis
+  lonely: -1
+The best kind of you.
+oh shit
+what happened?!
+NO CLUE
+who blew up knifebot ?
+lol
+ahhhh
+%!@#^!@#~
+Junglas?
+oh phew
+is blown away by force of knifebot's statement
+damn skippy stabby 

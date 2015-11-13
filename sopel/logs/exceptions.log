@@ -418,3 +418,147 @@ Traceback (most recent call last):
 AttributeError: 'function' object has no attribute 'priority'
 ----------------------------------------
 
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:20:20.032483. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:20:51.778277. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:20:57.640470. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:21:18.353733. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:23:29.652574. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:24:25.341279. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: TypeError: 'function' object is not iterable (file "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister)
+from Uname at 2015-11-11 19:26:11.901268. Message was: knifebot: reload junglas
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+----------------------------------------
+
+Signature: AttributeError: 'module' object has no attribute 'say' (file "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas)
+from askeeve at 2015-11-11 19:53:01.619734. Message was: test the junglas again please
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say("HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I'm testing quotes :P")
+AttributeError: 'module' object has no attribute 'say'
+----------------------------------------
+
+Signature: AttributeError: 'module' object has no attribute 'say' (file "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas)
+from Uname at 2015-11-11 19:53:42.222650. Message was: +def junglas(jot, trigger): 
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say("HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I'm testing quotes :P")
+AttributeError: 'module' object has no attribute 'say'
+----------------------------------------
+
+Signature: AttributeError: 'module' object has no attribute 'say' (file "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas)
+from askeeve at 2015-11-11 19:56:23.995721. Message was: test the junglas again
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say('HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I\'m testing quotes :P')
+AttributeError: 'module' object has no attribute 'say'
+----------------------------------------
+
+Signature: AttributeError: 'module' object has no attribute 'say' (file "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas)
+from Uname at 2015-11-11 19:56:26.994137. Message was: junglass?
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say('HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I\'m testing quotes :P')
+AttributeError: 'module' object has no attribute 'say'
+----------------------------------------
+
+Signature: UnicodeEncodeError: 'ascii' codec can't encode character u'\xa3' in position 8: ordinal not in range(128) (file "/home/knifebot/.sopel/knifeclub_modules/newAI.py", line 70, in respond)
+from stabby at 2015-11-12 10:22:50.264913. Message was: $*!#%^!*£
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/newAI.py", line 70, in respond
+    f.write(trigger.group() + '\n')
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xa3' in position 8: ordinal not in range(128)
+----------------------------------------
+
+Signature: UnicodeEncodeError: 'ascii' codec can't encode character u'\xa3' in position 7: ordinal not in range(128) (file "/home/knifebot/.sopel/knifeclub_modules/newAI.py", line 70, in respond)
+from pointy at 2015-11-12 10:22:54.611180. Message was: ^~~#*@!£^£#~~£
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/newAI.py", line 70, in respond
+    f.write(trigger.group() + '\n')
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xa3' in position 7: ordinal not in range(128)
+----------------------------------------
+

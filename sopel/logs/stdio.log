@@ -1499,3 +1499,303 @@ Registered 45 modules,
 0 modules failed to load
 
 
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to 74.207.244.119:6667...
+Connected.
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Connecting to 74.207.244.119:6667...
+Connected.
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/modules/reload.py", line 49, in f_reload
+    bot.unregister(obj)
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 169, in unregister
+    for rule in obj.rule:
+TypeError: 'function' object is not iterable
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say("HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I'm testing quotes :P")
+AttributeError: 'module' object has no attribute 'say'
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say("HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I'm testing quotes :P")
+AttributeError: 'module' object has no attribute 'say'
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say('HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I\'m testing quotes :P')
+AttributeError: 'module' object has no attribute 'say'
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/junglas.py", line 7, in junglas
+    bot.say('HOOOOOOONGLAAAAASSSSSSSSSSS!!!!!111!!!111 I\'m testing quotes :P')
+AttributeError: 'module' object has no attribute 'say'
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 45 modules,
+0 modules failed to load
+
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/newAI.py", line 70, in respond
+    f.write(trigger.group() + '\n')
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xa3' in position 8: ordinal not in range(128)
+
+Traceback (most recent call last):
+  File "/home/knifebot/.local/lib/python2.7/site-packages/sopel-6.0.0-py2.7.egg/sopel/bot.py", line 257, in call
+    exit_code = func(sopel, trigger)
+  File "/home/knifebot/.sopel/knifeclub_modules/newAI.py", line 70, in respond
+    f.write(trigger.group() + '\n')
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xa3' in position 7: ordinal not in range(128)
+
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 41 modules,
+0 modules failed to load
+
+
+Connecting to 74.207.244.119:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 44 modules,
+0 modules failed to load
+
+
+Connecting to 74.207.244.119:6667...
+Connected.
+KeyboardInterrupt
+
+Welcome to Sopel. Loading modules...
+
+
+
+
+Registered 44 modules,
+0 modules failed to load
+
+
+Connecting to 74.207.244.119:6667...
+Connected.
