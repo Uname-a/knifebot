@@ -1,5 +1,5 @@
 bin/
-lib/*
+lib/
 !lib/python2.7/site-packages/sopel/
 !lib/python2.7/site-packages/sopel/*
 !lib/python2.7/site-packages/sopel/*/
