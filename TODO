@@ -1,4 +1,8 @@
 [November 11, 2015]
-- rss feed script
+-Massdrop guest linker
+	*when a person posts a massdrop link give the guest access one
+
+DONE
+- rss feed script 
 	* find ptyhon package that can add rss feeds to sopel
 
