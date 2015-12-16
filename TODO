@@ -1,6 +1,8 @@
 [November 11, 2015]
 -Massdrop guest linker
 	*when a person posts a massdrop link give the guest access one
+-subreddit linker
+	* post a full url when someone chats /r/subreddit or does .r subreddit
 
 DONE
 - rss feed script 
